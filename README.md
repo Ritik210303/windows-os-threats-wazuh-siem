@@ -51,7 +51,7 @@ These events were correlated to reconstruct the attack lifecycle.
 
 ## 📄 Full Report
 
-👉 [Download Full PDF](Windows_OS_Threats_Wazuh_Report.pdf)
+👉 Windows Endpoint Compromise Simulation.pdf
 
 ---
 
